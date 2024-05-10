@@ -8,6 +8,4 @@ menu:
 
 # Contact
 
-Email me!
-
-chenmel@seas.upenn.edu
+Email us!
