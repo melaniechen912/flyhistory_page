@@ -3,6 +3,4 @@ title: "About"
 draft: false
 ---
 
-# About Us
-
-Made with ❤️ by the *Hugo Bootstrap Theme* [team](https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors).
+[Open an issue](https://github.com/melaniechen912/flyhistory_page/issues/new) on GitHub.
