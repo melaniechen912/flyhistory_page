@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CIS3500 Team 5 on Fly History Landing Page</title>
-    <link>https://melaniechen912.github.io/flyhistory_page/authors/cis3500-team-5/</link>
+    <link>https://github.io/melaniechen912/flyhistory_page/authors/cis3500-team-5/</link>
     <description>Recent content in CIS3500 Team 5 on Fly History Landing Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>CIS3500 Team 5</copyright>
-    <atom:link href="https://melaniechen912.github.io/flyhistory_page/authors/cis3500-team-5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.io/melaniechen912/flyhistory_page/authors/cis3500-team-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://melaniechen912.github.io/flyhistory_page/page/</link>
+      <link>https://github.io/melaniechen912/flyhistory_page/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://melaniechen912.github.io/flyhistory_page/page/</guid>
+      <guid>https://github.io/melaniechen912/flyhistory_page/page/</guid>
       <description></description>
     </item>
   </channel>
